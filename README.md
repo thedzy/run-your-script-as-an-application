@@ -1,5 +1,5 @@
 # Run your script as an Application
-You can use these shell applications to host an run your script as if it where native application.
+You can use these shell applications to host and run your script as if it where native application.
 
 ## Simply your script distribution to users
 Allows you to easily distribute your code to novice users and eliminates the need for the user to make the script execuatble in order to run.

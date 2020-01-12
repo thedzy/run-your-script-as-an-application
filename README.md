@@ -5,7 +5,7 @@ You can use these shell applications to host and run your script as if it where 
 Allows you to easily distribute your code to novice users and eliminates the need for the user to make the script execuatble in order to run.
 
 ### Script-py-droplet.app
-Distribute your Python scirpt as an application accepting files.
+Distribute your Python script as an application accepting files.
 Works only when files are dropped on the application
 1. Change the icon cmd.icns (/Contents/Resources/cmd.icns)
 2. Edit the plist (/Contents/info.plist)
@@ -14,7 +14,7 @@ Works only when files are dropped on the application
 5. Send
 
 ### Script-py.app
-Distribute your Python scirpt as an application
+Distribute your Python script as an application
 1. Change the icon cmd.icns (/Contents/Resources/cmd.icns)
 2. Edit the plist (/Contents/info.plist)
 3. Edit the code (Contents/MacOS/main.py)
@@ -22,7 +22,7 @@ Distribute your Python scirpt as an application
 5. Send
 
 ### Script-sh.app
-Distribute your Shell scirpt as an application
+Distribute your Shell script as an application
 1. Change the icon (/Contents/Resources/cmd.icns)
 2. Edit the plist (/Contents/info.plist)
 3. Edit the code (/Contents/MacOS/main.command)

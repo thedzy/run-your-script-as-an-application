@@ -7,6 +7,9 @@ Created by _yourname_
 Copyright (c) 2010 _comapnyname_, All Rights Reserved.
 """
 
+import os
+import sys
+
 """
 TODO
 	- Edit info.plist for copyright and organisation
@@ -14,11 +17,13 @@ TODO
 	- Insert code
 """
 
-import sys, os
 
 def main():
-	# Insert code
-	
+	# Get the path to the app location
+	basepath = os.path.abspath(__file__ + "/../../../..")
+
+	# Insert code and replce pass
+
 
 if __name__ == "__main__":
 	main()

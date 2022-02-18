@@ -2,7 +2,7 @@
 You can use these shell applications to host and run your script as if it where native application.
 
 ## Simply your script distribution to users
-Allows you to easily distribute your code to novice users and eliminates the need for the user to make the script execuatble in order to run.
+Allows you to easily distribute your code to novice users and eliminates the need for the user to make the script executable in order to run.
 
 ### Script-py-droplet.app
 Distribute your Python script as an application accepting files.
